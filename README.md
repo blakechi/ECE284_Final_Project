@@ -30,3 +30,6 @@ This project is a prototype of long-term elder care system that successfully mea
 5. click `build` -> `debug`
 6. Open UART output terminal
 7. click `run`
+
+## License
+MIT
