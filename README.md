@@ -1,4 +1,4 @@
-# ECE 284 Final Project
+# Heart_Rate_Measurement_System
 
 ## Introduction
 This project is a prototype of long-term elder care system that successfully measures heart rates and communicates between heart rate measurement device and multiple people through AWS.
